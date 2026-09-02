@@ -17,21 +17,21 @@ Simulating airflow, downforce, and drag at specific ride heights using CFD.<!--[
   <tr>
     <td align="center">
       <em>Velocity Flow Trajectories</em><br>
-      <img src="PERFORMANCEPACKAGEV1pic2.jpg" width="100%">
+      <img src="PERFORMANCEPACKAGEV1pic2.JPG" width="100%">
     </td>
     <td align="center">
       <em>Velocity Flow Trajectories</em><br>
-      <img src="PERFORMANCE PACKAGE V2 PIC2 velocity.jpg" width="100%">
+      <img src="PERFORMANCE PACKAGE V2 PIC2 velocity.JPG" width="100%">
     </td>
   </tr>
   <tr>
     <td align="center">
       <em>Vorticity Analysis</em><br>
-      <img src="PERFORMANCEPACKAGEV1pic3.jpg" width="100%">
+      <img src="PERFORMANCEPACKAGEV1pic3.JPG" width="100%">
     </td>
     <td align="center">
       <em>Vorticity Analysis</em><br>
-      <img src="PERFORMANCE PACKAGE V2 PIC3 Vorticity.jpg" width="100%">
+      <img src="PERFORMANCE PACKAGE V2 PIC3 Vorticity.JPG" width="100%">
     </td>
   </tr>
 </table>
